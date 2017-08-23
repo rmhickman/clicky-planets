@@ -40,12 +40,16 @@ position: absolute;
 font-size: 40px;
 color: white;
 margin-top: 120px;
-width: inherit;}
+width: inherit;
 }
 
 .planetImage{
   height: 300px;
   width: 300px;
+}
+
+.hidden {
+  display: none;
 }
 
 
